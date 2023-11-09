@@ -15,7 +15,7 @@ public class App{
                 e.printStackTrace();
             }
         }
-        MainScreen screen = new MainScreen(client);
+        new MainScreen(client);
     }
 
 }
