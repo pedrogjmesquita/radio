@@ -8,6 +8,8 @@ This project is designed to showcase a client-server architecture with various c
 
 - **Client-Server Architecture:** The project implements a client-server model, where the client and server communicate using Java sockets. The server is responsible for handling client requests and responding to them.
 
+- **Internationalization:** The project uses the Resource Bundles to support multiple languages. The application is currently available in English, Portuguese, Spanish, German, French, Italian.
+
 - **Password Encryption:** The project incorporates password encryption for enhanced security. It ensures that sensitive information, such as user passwords, is stored securely in the database.
 
 - **MySQL Database Integration:** The project uses a MySQL database to store and manage data. This includes user information, configurations, and other relevant data.
@@ -40,13 +42,10 @@ To run the project, follow these steps:
 - AWT and Swing
 
 ## Contributors
-
-- Pedro Mesquita (You)
+- Pedro Mesquita ([@pedrogjmesquita](https://github.com/pedrogjmesquita))
+- Enzo Pucci ([@ebpucci](https://github.com/ebpucci))
+- Gabriel Caselli (Ñ sei o git dele)
 
 ## License
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Additional Information
-
-Feel free to add any additional details, instructions, or notes related to your project in this section.
