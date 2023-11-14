@@ -1,5 +1,9 @@
 # Java Radio
 
+## For IMT reviewers
+
+The project presentation and full documentation can be found in the `docs` folder inside `lib`.
+
 ## Overview
 
 This project is designed to showcase a client-server architecture with various components including Java sockets, password encryption, MySQL database integration, and AWT and Swing Graphical User Interfaces (GUIs).
