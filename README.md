@@ -48,7 +48,7 @@ To run the project, follow these steps:
 ## Contributors
 - Pedro Mesquita ([@pedrogjmesquita](https://github.com/pedrogjmesquita))
 - Enzo Pucci ([@ebpucci](https://github.com/ebpucci))
-- Gabriel Caselli (Ñ sei o git dele)
+- Gabriel Caselli (@[gabcaselli](https://github.com/gabcaselli))
 
 ## License
 

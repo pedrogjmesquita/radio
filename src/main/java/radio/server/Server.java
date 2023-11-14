@@ -24,12 +24,8 @@ public class Server{
         while(true){
             ClientSocket clientSocket = new ClientSocket(serverSocket.accept());
             clients.add(clientSocket);
-            new Thread(() -> clientInteractionLoop(clientSocket)).start();
+            new Thread(() -> clientCredentialsLoop(clientSocket)).start();
         }
-    }
-
-    public void clientInteractionLoop(ClientSocket clientSocket){
-        clientCredentialsLoop(clientSocket);
     }
 
 
